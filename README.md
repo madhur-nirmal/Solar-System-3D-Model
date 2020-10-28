@@ -1,1 +1,1 @@
-# solar-system-CG
+# Solar System 3D Model
